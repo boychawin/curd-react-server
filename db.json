@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "d552cfe9-c3e3-4e81-ab5f-8e0df1341c15",
+      "user_name": "guwork.co@gmail.com",
+      "user_password": "123456",
+      "user_first_name": "guwork.co",
+      "user_last_name": "guwork.co",
+      "user_sex": "ชาย",
+      "user_age": "343",
+      "user_email": "guwork@gmail.com",
+      "user_phone": "0985679714",
+      "user_address": "thailand",
+      "user_photo": "https://www.guwork.co/guwork.co.png"
+    }
+  ]
+}
